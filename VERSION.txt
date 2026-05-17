@@ -1,0 +1,4 @@
+Structural Evaluation Layer (SEL)
+Version: V01
+Status: FROZEN
+Date: May 2026
